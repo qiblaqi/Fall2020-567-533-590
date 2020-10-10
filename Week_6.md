@@ -26,4 +26,4 @@
 
 ## Saturday update
 
-+ Planned to finish the issues #2 and issue #3
++ Planned to finish the ***issues #2*** and ***issue #3***
