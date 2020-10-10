@@ -23,3 +23,7 @@
 ## Friday update
 
 + I finished the CS590 HW1 at 1:pm although it's a little bit late. But late is better than none. Okay :( 
+
+## Saturday update
+
++ Planned to finish the issues #2 and issue #3
