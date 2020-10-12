@@ -1,4 +1,4 @@
-# Fall2020-567-533-590
+# Fall-2020
 
 Course Schedule:
 
